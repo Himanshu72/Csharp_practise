@@ -1,0 +1,13 @@
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\bin\Debug\netcoreapp3.1\LamdaExpAndMore.exe
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\bin\Debug\netcoreapp3.1\LamdaExpAndMore.deps.json
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\bin\Debug\netcoreapp3.1\LamdaExpAndMore.runtimeconfig.json
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\bin\Debug\netcoreapp3.1\LamdaExpAndMore.runtimeconfig.dev.json
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\bin\Debug\netcoreapp3.1\LamdaExpAndMore.dll
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\bin\Debug\netcoreapp3.1\LamdaExpAndMore.pdb
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\obj\Debug\netcoreapp3.1\LamdaExpAndMore.csprojAssemblyReference.cache
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\obj\Debug\netcoreapp3.1\LamdaExpAndMore.AssemblyInfoInputs.cache
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\obj\Debug\netcoreapp3.1\LamdaExpAndMore.AssemblyInfo.cs
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\obj\Debug\netcoreapp3.1\LamdaExpAndMore.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\obj\Debug\netcoreapp3.1\LamdaExpAndMore.dll
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\obj\Debug\netcoreapp3.1\LamdaExpAndMore.pdb
+C:\Users\Himanshu Joshi\source\repos\C#\LamdaExpAndMore\LamdaExpAndMore\obj\Debug\netcoreapp3.1\LamdaExpAndMore.genruntimeconfig.cache
