@@ -1,0 +1,13 @@
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\bin\Debug\netcoreapp3.1\inherit.exe
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\bin\Debug\netcoreapp3.1\inherit.deps.json
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\bin\Debug\netcoreapp3.1\inherit.runtimeconfig.json
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\bin\Debug\netcoreapp3.1\inherit.runtimeconfig.dev.json
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\bin\Debug\netcoreapp3.1\inherit.dll
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\bin\Debug\netcoreapp3.1\inherit.pdb
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\obj\Debug\netcoreapp3.1\inherit.csprojAssemblyReference.cache
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\obj\Debug\netcoreapp3.1\inherit.AssemblyInfoInputs.cache
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\obj\Debug\netcoreapp3.1\inherit.AssemblyInfo.cs
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\obj\Debug\netcoreapp3.1\inherit.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\obj\Debug\netcoreapp3.1\inherit.dll
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\obj\Debug\netcoreapp3.1\inherit.pdb
+C:\Users\Himanshu Joshi\source\repos\C#\inherit\inherit\obj\Debug\netcoreapp3.1\inherit.genruntimeconfig.cache
