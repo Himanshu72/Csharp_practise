@@ -23,6 +23,28 @@ namespace ListBox
         public MainWindow()
         {
             InitializeComponent();
+            List<Student> students=new List<Student>();
+            students.Add(new Student() {Name="HJ",Age=22,Gender="Male" });
+            students.Add(new Student() { Name = "DJ", Age = 22, Gender = "Male" });
+            students.Add(new Student() { Name = "CJ", Age = 22, Gender = "Male" });
+            students.Add(new Student() { Name = "PJ", Age = 22, Gender = "Male" });
+            Stuinfo.ItemsSource = students;
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (Stuinfo.SelectedItem != null) {
+                var data = Stuinfo.SelectedItem;
+                MessageBox.Show("Name:"+ (data as Student).Name +
+                    "Age :" + (data as Student).Age +
+                    "Gender"+(data as Student).Gender
+                    );
+            }  
+        }
+    }
+    public class Student {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string Gender { get; set; }
     }
 }
