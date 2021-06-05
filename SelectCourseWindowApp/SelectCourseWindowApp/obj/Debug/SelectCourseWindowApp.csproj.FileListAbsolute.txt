@@ -1,0 +1,15 @@
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\bin\Debug\SelectCourseWindowApp.exe.config
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\bin\Debug\SelectCourseWindowApp.exe
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\bin\Debug\SelectCourseWindowApp.pdb
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp.csprojAssemblyReference.cache
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\MainWindow.g.cs
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\App.g.cs
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp_MarkupCompile.cache
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp_MarkupCompile.lref
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\MainWindow.baml
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp.g.resources
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp.Properties.Resources.resources
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp.csproj.GenerateResource.cache
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp.exe
+C:\Users\Himanshu Joshi\source\repos\C#\SelectCourseWindowApp\SelectCourseWindowApp\obj\Debug\SelectCourseWindowApp.pdb
