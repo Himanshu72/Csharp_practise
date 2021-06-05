@@ -28,6 +28,6 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        <Button Click="Button_Click" Grid.Column="1" Content="cilck" />
+        <Button ToolTip="Plese Select item then click" Click="Button_Click" Grid.Column="1" Content="cilck" />
     </Grid>
 </Window>
