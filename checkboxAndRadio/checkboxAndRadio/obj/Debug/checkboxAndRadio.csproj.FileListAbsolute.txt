@@ -1,0 +1,15 @@
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\bin\Debug\checkboxAndRadio.exe.config
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\bin\Debug\checkboxAndRadio.exe
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\bin\Debug\checkboxAndRadio.pdb
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio.csprojAssemblyReference.cache
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\MainWindow.g.cs
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\App.g.cs
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio_MarkupCompile.cache
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio_MarkupCompile.lref
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\MainWindow.baml
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio.g.resources
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio.Properties.Resources.resources
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio.csproj.GenerateResource.cache
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio.exe
+C:\Users\Himanshu Joshi\source\repos\C#\checkboxAndRadio\checkboxAndRadio\obj\Debug\checkboxAndRadio.pdb
