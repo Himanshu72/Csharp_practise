@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height=".5*" />
+            <RowDefinition Height="2*" />
+            </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Image Source="note" BackgroundColor="PowderBlue" Grid.ColumnSpan="2" Grid.Column="0" Grid.Row="0" />
+        <Editor Placeholder="Enter your notes" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" />
+        <Button Grid.Row="2" Grid.Column="0" Text="Save" TextColor="White" BackgroundColor="Green" FontSize="14"/>
+        <Button Grid.Row="2" Grid.Column="1" Text="Delete" TextColor="White" BackgroundColor="red" FontSize="   14"/>
+        <Label  Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="2" Text="This is Note here" FontSize="20" TextColor="Black" />
+    </Grid>
+
+    
+    
+    
+    </ContentPage>
