@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.Areg"
+              xmlns:ffsvg="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+              Title="Regestration"
+            
+             >
+    <ContentPage.Content>
+        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*" />
+                <RowDefinition Height="0.7*" />
+                <RowDefinition Height="7*" />
+                <RowDefinition Height="1.4*" />
+            </Grid.RowDefinitions>
+            <ffsvg:SvgCachedImage  Aspect="AspectFill" Source="resource://App.Images.page1.gif" />
+
+
+            <Path Fill="#000" Grid.Row="1" Rotation="180" Margin="0, -10, 0, 0" Stroke="#000" Aspect="Fill" Data="M0,288L48,272C96,256,192,224,288,197.3C384,171,480,149,576,165.3C672,181,768,235,864,250.7C960,267,1056,245,1152,250.7C1248,256,1344,288,1392,304L1440,320L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"/>
+            <StackLayout x:Name="Parent" Padding="5" Grid.Row="2" VerticalOptions="Center">
+                <Label x:Name="title" HorizontalOptions="Center" Text="Agent" TextColor="Black" FontSize="Medium" FontAttributes="Bold"
+                       />
+                <Label  HorizontalOptions="Center" Text="Who is controller of this phone?" TextColor="Gray" FontSize="Subtitle" Margin="0,0,0,10" FontAttributes="Italic"
+                       />
+                <Entry  Placeholder="Controller Name" ClearButtonVisibility="WhileEditing" />
+                <Entry  Placeholder="Controller Password" ClearButtonVisibility="WhileEditing" IsPassword="True" />
+                
+                <Picker x:Name="AgentList"
+        Title="Select an agent"
+            FontSize="Small"
+                       IsVisible="false" 
+                        >
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Agent 1</x:String>
+                            <x:String>Agent 2</x:String>
+                            <x:String>Agent 3</x:String>
+                        
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+            <Button x:Name="BTN" Clicked="BTN_Clicked"  Text="Go"  BackgroundColor="#000" TextColor="#fff" Grid.Row="3" CornerRadius="30" Margin="10" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

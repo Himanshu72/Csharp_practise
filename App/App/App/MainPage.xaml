@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ff="clr-namespace:FFImageLoading;assembly=FFImageLoading"
+             xmlns:ffsvg="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+              NavigationPage.HasNavigationBar="False"
+             x:Class="App.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="0.7*" />
+            <RowDefinition Height="7*" />
+            <RowDefinition Height="1.4*" />
+        </Grid.RowDefinitions>
+        <ffsvg:SvgCachedImage  Aspect="AspectFill" Source="resource://App.Images.page2.gif" />
+        
+        
+        <Path Fill="#000" Grid.Row="1" Rotation="180" Margin="0, -10, 0, 0" Stroke="#000" Aspect="Fill" Data="M0,288L48,272C96,256,192,224,288,197.3C384,171,480,149,576,165.3C672,181,768,235,864,250.7C960,267,1056,245,1152,250.7C1248,256,1344,288,1392,304L1440,320L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"/>
+        <StackLayout  Grid.Row="2" VerticalOptions="Center">
+                        <Label Text="Setup" FontSize="Title" TextColor="Black" HorizontalOptions="Center" FontAttributes="Bold" />
+            <Label Text="What will this device be used as ?" FontSize="Subtitle" TextColor="Black" HorizontalOptions="Center" FontAttributes="Bold" />
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition  Width="*" />
+                    <ColumnDefinition  Width="*" />
+                </Grid.ColumnDefinitions>
+                <ffsvg:SvgCachedImage x:Name="Img"  WidthRequest="150" Margin="0, 20, 0, 0" Source="resource://App.Images.agent.svg" >
+
+                </ffsvg:SvgCachedImage>
+                <StackLayout VerticalOptions="Center" Grid.Column="1">
+                    <Label  FontAttributes="Italic" FontSize="Subtitle"  x:Name="Txt" Text="Send Location To Controller Phone." TextColor="#000"   />
+                </StackLayout>
+
+            </Grid>
+            
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0, 20, 0, 0">
+                <RadioButton  x:Name="Agent" GroupName="role" Value="agent"  CheckedChanged="RadioButton_CheckedChanged" IsChecked="True" Content="Agent" FontSize="Small" />
+                <RadioButton  x:Name="Ctrl" GroupName="role" Value="ctrl" CheckedChanged="RadioButton_CheckedChanged" Content="Controller" FontSize="Small" />
+            </StackLayout>
+        </StackLayout>
+        <Button  Text="Next" Clicked="Button_Clicked" BackgroundColor="#000" TextColor="#fff" Grid.Row="3" CornerRadius="30" Margin="10" />
+    </Grid>
+
+</ContentPage>
